@@ -1,0 +1,11 @@
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.AirPollutionLibrary\APCD.AirPollutionLibrary\bin\Debug\APCD.AirPollutionLibrary.dll
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.AirPollutionLibrary\APCD.AirPollutionLibrary\bin\Debug\APCD.AirPollutionLibrary.pdb
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.AirPollutionLibrary\APCD.AirPollutionLibrary\bin\Debug\APCD.AirPollutionLibrary.xml
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.AirPollutionLibrary\APCD.AirPollutionLibrary\bin\Debug\APCD.Tools.dll
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.AirPollutionLibrary\APCD.AirPollutionLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.AirPollutionLibrary\APCD.AirPollutionLibrary\obj\Debug\Resources.resources
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.AirPollutionLibrary\APCD.AirPollutionLibrary\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.AirPollutionLibrary\APCD.AirPollutionLibrary\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.AirPollutionLibrary\APCD.AirPollutionLibrary\obj\Debug\APCD.AirPollutionLibrary.dll
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.AirPollutionLibrary\APCD.AirPollutionLibrary\obj\Debug\APCD.AirPollutionLibrary.xml
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.AirPollutionLibrary\APCD.AirPollutionLibrary\obj\Debug\APCD.AirPollutionLibrary.pdb
